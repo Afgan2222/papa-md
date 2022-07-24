@@ -5,15 +5,6 @@ import moment from 'moment-timezone'
 
 global.owner = [
   ['+62 821-2596-8810'],
-  ['+999999999'],
-  ['+999999999'],
-  ['+666666666'],
-  ['+62 821-2596-8810'],
-  ['+62 821-2596-8810', 'I Love You, true],
-  ['+62 821-2596-8810', 'Hahahah', true],
-  ['+62 821-2596-8810', 'Afgan  ID', true],
-  ['+999999999', 'This  Bot  Created  By  Afgan  ID', true],
-  ['+666666666', '© Afgan nit ayng', true],
   ['+62 821-2596-8810', '「 𝔸𝕗𝕘𝕒𝕟   𝕀𝔻 」', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
